@@ -1,0 +1,73 @@
+  
+
+menu{background-color: green;
+
+}
+aside{float: left;
+    width: 60%;
+    color: gold;
+    box-sizing: border-box;
+    background-color:black;
+    padding-left:0.5cm;
+    padding-top: 0.2cm;
+    padding-right: 0.3cm;
+    margin-bottom: 3cm;
+    display: inline-block;
+}
+h1{
+    display: inline;
+    width: 100%;
+}
+
+footer{ nav-down: auto;
+    
+}
+header{
+    background-color: white;
+
+}
+h1{
+    width: 70%;
+    color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    overflow: auto;
+
+}
+.pesquisas{
+    background-color: rgb(21, 133, 21);
+    margin-left: 25.2cm;
+    margin-top: 0.3cm;
+    padding-left: 0.5cm;
+    padding-block-end: 0.5cm;
+    padding-top: 0.2cm;
+    width: calc(100%-400px) ;
+    
+}
+
+body{
+    background-image: url(img/maltefundo.jpg);
+    margin-left: 0.2cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav .menu-opcoes a {
+    padding-left: 5.5cm;
+    color: white;
+    background-color: black;
+}
+    
+.contatos{
+    margin-top: 22.1cm;
+    background-color: rgb(21, 133, 21);
+    padding-left: 30cm;
+    height: 2cm;
+}
+span img{
+    float: right;
+}
+
+
+
+
+
+
